@@ -1,56 +1,68 @@
 {
  "updated": "2026-07-13T02:43:59+0200",
  "expansions": {
-  "primal": {
-   "name": "Primal",
+  "primal-clash": {
+   "name": "Primal Clash",
    "count": 177
   },
   "expansion-1523": {
    "name": "expansion-1523",
    "count": 211
   },
-  "expansion-1525": {
-   "name": "expansion-1525",
+  "jungle": {
+   "name": "Jungle",
    "count": 66
   },
-  "expansion-1526": {
-   "name": "expansion-1526",
+  "fossil": {
+   "name": "Fossil",
    "count": 63
   },
-  "base-set": {
-   "name": "Base Set",
+  "base-set-2": {
+   "name": "Base Set 2",
    "count": 130
   },
-  "team": {
-   "name": "Team",
-   "count": 312
+  "team-rocket": {
+   "name": "Team Rocket",
+   "count": 84
   },
-  "gym": {
-   "name": "Gym",
-   "count": 265
+  "gym-heroes": {
+   "name": "Gym Heroes",
+   "count": 133
   },
-  "neo": {
-   "name": "Neo",
-   "count": 302
+  "gym-challenge": {
+   "name": "Gym Challenge",
+   "count": 132
+  },
+  "neo-genesis": {
+   "name": "Neo Genesis",
+   "count": 114
+  },
+  "neo-discovery": {
+   "name": "Neo Discovery",
+   "count": 75
   },
   "neo-revelation-booster": {
    "name": "Neo Revelation Booster",
    "count": 66
   },
-  "legendary": {
-   "name": "Legendary",
+  "neo-destiny": {
+   "name": "Neo Destiny",
+   "count": 113
+  },
+  "legendary-collection": {
+   "name": "Legendary Collection",
    "count": 115
   },
-  "expedition-base": {
-   "name": "Expedition Base",
+  "expedition-base-set": {
+   "name": "Expedition Base Set",
    "count": 169
   },
-  "expansion-1537": {
-   "name": "expansion-1537",
+  "aquapolis": {
+   "name": "Aquapolis",
    "count": 190
   },
-  "expansion-1538": {
-   "name": "expansion-1538",
+  "skyridge": {
+   "name": "Skyridge",
    "count": 186
   },
   "expansion-2107": {
@@ -89,76 +101,76 @@
    "name": "Southern Islands",
    "count": 18
   },
-  "ex-ruby": {
-   "name": "EX Ruby &",
+  "ex-ruby-sapphire": {
+   "name": "EX Ruby & Sapphire",
    "count": 116
   },
-  "ex-trainer": {
-   "name": "EX Trainer",
+  "ex-trainer-kit": {
+   "name": "EX Trainer Kit",
    "count": 20
   },
-  "expansion-1540": {
-   "name": "expansion-1540",
+  "ex-sandstorm": {
+   "name": "EX Sandstorm",
    "count": 103
   },
-  "expansion-1541": {
-   "name": "expansion-1541",
+  "ex-dragon": {
+   "name": "EX Dragon",
    "count": 106
   },
-  "ex-team-magma-vs-team": {
-   "name": "EX Team Magma vs Team",
+  "ex-team-magma-vs-team-aqua": {
+   "name": "EX Team Magma vs Team Aqua",
    "count": 98
   },
-  "ex-hidden": {
-   "name": "EX Hidden",
+  "ex-hidden-legends": {
+   "name": "EX Hidden Legends",
    "count": 108
   },
-  "ex-firered": {
-   "name": "EX FireRed &",
+  "ex-firered-leafgreen": {
+   "name": "EX FireRed & LeafGreen",
    "count": 116
   },
-  "ex-team-rocket": {
-   "name": "EX Team Rocket",
+  "ex-team-rocket-returns": {
+   "name": "EX Team Rocket Returns",
    "count": 112
   },
-  "expansion-1546": {
-   "name": "expansion-1546",
+  "ex-deoxys": {
+   "name": "EX Deoxys",
    "count": 110
   },
-  "expansion-1547": {
-   "name": "expansion-1547",
+  "ex-emerald": {
+   "name": "EX Emerald",
    "count": 112
   },
   "expansion-1548": {
    "name": "expansion-1548",
    "count": 146
   },
-  "ex-delta": {
-   "name": "EX Delta",
+  "ex-delta-species": {
+   "name": "EX Delta Species",
    "count": 115
   },
-  "ex-legend": {
-   "name": "EX Legend",
+  "ex-legend-maker": {
+   "name": "EX Legend Maker",
    "count": 96
   },
-  "ex-holon": {
-   "name": "EX Holon",
+  "ex-holon-phantoms": {
+   "name": "EX Holon Phantoms",
    "count": 112
   },
-  "ex-crystal": {
-   "name": "EX Crystal",
+  "ex-crystal-guardians": {
+   "name": "EX Crystal Guardians",
    "count": 104
   },
   "ex-trainer-kit-2": {
    "name": "EX Trainer Kit 2",
    "count": 24
   },
-  "ex-dragon": {
-   "name": "EX Dragon",
+  "ex-dragon-frontiers": {
+   "name": "EX Dragon Frontiers",
    "count": 102
   },
-  "ex-power": {
-   "name": "EX Power",
+  "ex-power-keepers": {
+   "name": "EX Power Keepers",
    "count": 109
   },
   "pop-series-1": {
@@ -181,101 +193,101 @@
    "name": "POP Series 5",
    "count": 17
   },
-  "diamond": {
-   "name": "Diamond &",
+  "diamond-pearl": {
+   "name": "Diamond & Pearl",
    "count": 142
   },
-  "mysterious": {
-   "name": "Mysterious",
+  "mysterious-treasures": {
+   "name": "Mysterious Treasures",
    "count": 134
   },
-  "secret": {
-   "name": "Secret",
+  "secret-wonders": {
+   "name": "Secret Wonders",
    "count": 136
   },
   "pop-series-6": {
    "name": "POP Series 6",
    "count": 18
   },
-  "great": {
-   "name": "Great",
+  "great-encounters": {
+   "name": "Great Encounters",
    "count": 111
   },
-  "dp-trainer": {
-   "name": "DP Trainer",
+  "dp-trainer-kit": {
+   "name": "DP Trainer Kit",
    "count": 23
   },
   "pop-series-7": {
    "name": "POP Series 7",
    "count": 17
   },
-  "majestic": {
-   "name": "Majestic",
+  "majestic-dawn": {
+   "name": "Majestic Dawn",
    "count": 109
   },
-  "legends": {
-   "name": "Legends",
+  "legends-awakened": {
+   "name": "Legends Awakened",
    "count": 153
   },
-  "expansion-1561": {
-   "name": "expansion-1561",
+  "stormfront": {
+   "name": "Stormfront",
    "count": 107
   },
   "pop-series-8": {
    "name": "POP Series 8",
    "count": 17
   },
-  "expansion-1562": {
-   "name": "expansion-1562",
+  "platinum": {
+   "name": "Platinum",
    "count": 137
   },
   "pop-series-9": {
    "name": "POP Series 9",
    "count": 18
   },
-  "rising": {
-   "name": "Rising",
+  "rising-rivals": {
+   "name": "Rising Rivals",
    "count": 128
   },
-  "supreme": {
-   "name": "Supreme",
+  "supreme-victors": {
+   "name": "Supreme Victors",
    "count": 166
   },
   "pok-mon-rumble-game": {
-   "name": "Pok\u00e9mon Rumble: Game",
+   "name": "Pok\u00e9mon Rumble Game",
    "count": 18
   },
-  "expansion-1565": {
-   "name": "expansion-1565",
-   "count": 114
+  "arceus": {
+   "name": "Arceus",
+   "count": 148
   },
-  "heartgold": {
-   "name": "HeartGold &",
+  "heartgold-soulsilver": {
+   "name": "HeartGold & SoulSilver",
    "count": 141
   },
-  "hs-trainer": {
-   "name": "HS Trainer",
+  "hs-trainer-kit": {
+   "name": "HS Trainer Kit",
    "count": 60
   },
-  "expansion-1567": {
-   "name": "expansion-1567",
+  "unleashed": {
+   "name": "Unleashed",
    "count": 106
   },
-  "expansion-1568": {
-   "name": "expansion-1568",
+  "undaunted": {
+   "name": "Undaunted",
    "count": 97
   },
-  "expansion-1569": {
-   "name": "expansion-1569",
+  "triumphant": {
+   "name": "Triumphant",
    "count": 111
   },
-  "call-of": {
-   "name": "Call of",
+  "call-of-legends": {
+   "name": "Call of Legends",
    "count": 115
   },
-  "black": {
-   "name": "Black",
-   "count": 172
+  "black-white": {
+   "name": "Black & White",
+   "count": 320
   },
   "expansion-1611": {
    "name": "expansion-1611",
@@ -285,41 +297,49 @@
    "name": "expansion-1645",
    "count": 443
   },
-  "emerging": {
-   "name": "Emerging",
+  "emerging-powers": {
+   "name": "Emerging Powers",
    "count": 104
   },
-  "bw-trainer": {
-   "name": "BW Trainer",
+  "bw-trainer-kit": {
+   "name": "BW Trainer Kit",
    "count": 61
   },
-  "noble": {
-   "name": "Noble",
+  "noble-victories": {
+   "name": "Noble Victories",
    "count": 113
   },
-  "next": {
-   "name": "Next",
+  "next-destinies": {
+   "name": "Next Destinies",
    "count": 107
   },
-  "dark": {
-   "name": "Dark",
+  "dark-explorers": {
+   "name": "Dark Explorers",
    "count": 127
   },
-  "dragons": {
-   "name": "Dragons",
+  "dragons-exalted": {
+   "name": "Dragons Exalted",
    "count": 133
   },
-  "boundaries": {
-   "name": "Boundaries",
+  "boundaries-crossed": {
+   "name": "Boundaries Crossed",
    "count": 162
   },
-  "plasma": {
-   "name": "Plasma",
-   "count": 385
+  "plasma-storm": {
+   "name": "Plasma Storm",
+   "count": 144
+  },
+  "plasma-freeze": {
+   "name": "Plasma Freeze",
+   "count": 131
   },
   "dragon-vault": {
    "name": "Dragon Vault",
    "count": 24
+  },
+  "plasma-blast": {
+   "name": "Plasma Blast",
+   "count": 110
   },
   "legendary-treasures": {
    "name": "Legendary Treasures",
@@ -337,20 +357,20 @@
    "name": "expansion-1582",
    "count": 168
   },
-  "expansion-1583": {
-   "name": "expansion-1583",
+  "flashfire": {
+   "name": "Flashfire",
    "count": 127
   },
-  "xy-trainer": {
-   "name": "XY Trainer",
+  "xy-trainer-kit": {
+   "name": "XY Trainer Kit",
    "count": 61
   },
   "expansion-1625": {
    "name": "expansion-1625",
    "count": 12
   },
-  "furious": {
-   "name": "Furious",
+  "furious-fists": {
+   "name": "Furious Fists",
    "count": 129
   },
   "expansion-1624": {
@@ -361,60 +381,60 @@
    "name": "expansion-1623",
    "count": 12
   },
-  "phantom": {
-   "name": "Phantom",
+  "phantom-forces": {
+   "name": "Phantom Forces",
    "count": 151
   },
   "xy-trainer-kit-bisharp-and-wigglytuff": {
-   "name": "XY Trainer Kit: Bisharp and Wigglytuff",
+   "name": "XY Trainer Kit Bisharp and Wigglytuff",
    "count": 61
   },
-  "double": {
-   "name": "Double",
+  "double-crisis": {
+   "name": "Double Crisis",
    "count": 34
   },
-  "roaring": {
-   "name": "Roaring",
+  "roaring-skies": {
+   "name": "Roaring Skies",
    "count": 129
   },
-  "ancient": {
-   "name": "Ancient",
+  "ancient-origins": {
+   "name": "Ancient Origins",
    "count": 133
   },
-  "expansion-1678": {
-   "name": "expansion-1678",
+  "breakthrough": {
+   "name": "BREAKthrough",
    "count": 216
   },
   "xy-trainer-kit-latias": {
-   "name": "XY Trainer Kit: Latias",
+   "name": "XY Trainer Kit Latias",
    "count": 61
   },
-  "expansion-1687": {
-   "name": "expansion-1687",
+  "breakpoint": {
+   "name": "BREAKpoint",
    "count": 174
   },
   "expansion-1693": {
    "name": "expansion-1693",
    "count": 143
   },
-  "fates": {
-   "name": "Fates",
+  "fates-collide": {
+   "name": "Fates Collide",
    "count": 162
   },
-  "xy-trainer-kit-pikachu-libre": {
-   "name": "XY Trainer Kit: Pikachu Libre &",
+  "xy-trainer-kit-pikachu-libre-suicune": {
+   "name": "XY Trainer Kit Pikachu Libre & Suicune",
    "count": 61
   },
-  "steam": {
-   "name": "Steam",
+  "steam-siege": {
+   "name": "Steam Siege",
    "count": 143
   },
   "expansion-1741": {
    "name": "expansion-1741",
    "count": 12
   },
-  "expansion-1742": {
-   "name": "expansion-1742",
+  "evolutions": {
+   "name": "Evolutions",
    "count": 131
   },
   "expansion-1745": {
@@ -429,36 +449,36 @@
    "name": "expansion-1757",
    "count": 315
   },
-  "guardians": {
-   "name": "Guardians",
+  "guardians-rising": {
+   "name": "Guardians Rising",
    "count": 242
   },
   "expansion-1758": {
    "name": "expansion-1758",
    "count": 62
   },
-  "burning": {
-   "name": "Burning",
+  "burning-shadows": {
+   "name": "Burning Shadows",
    "count": 222
   },
-  "shining": {
-   "name": "Shining",
+  "shining-legends": {
+   "name": "Shining Legends",
    "count": 91
   },
-  "crimson": {
-   "name": "Crimson",
+  "crimson-invasion": {
+   "name": "Crimson Invasion",
    "count": 150
   },
   "expansion-1845": {
    "name": "expansion-1845",
    "count": 12
   },
-  "ultra": {
-   "name": "Ultra",
-   "count": 256
+  "ultra-prism": {
+   "name": "Ultra Prism",
+   "count": 215
   },
-  "forbidden": {
-   "name": "Forbidden",
+  "forbidden-light": {
+   "name": "Forbidden Light",
    "count": 184
   },
   "sm-trainer-kit": {
@@ -469,8 +489,8 @@
    "name": "expansion-2320",
    "count": 219
   },
-  "dragon": {
-   "name": "Dragon",
+  "dragon-majesty": {
+   "name": "Dragon Majesty",
    "count": 93
   },
   "expansion-2352": {
@@ -481,32 +501,36 @@
    "name": "McDonald's Collection 2018 FR",
    "count": 40
   },
-  "lost": {
-   "name": "Lost",
-   "count": 541
+  "lost-thunder": {
+   "name": "Lost Thunder",
+   "count": 275
   },
   "expansion-2404": {
    "name": "expansion-2404",
    "count": 12
   },
+  "team-up": {
+   "name": "Team Up",
+   "count": 228
+  },
   "expansion-2438": {
    "name": "expansion-2438",
    "count": 27
   },
-  "unbroken": {
-   "name": "Unbroken",
+  "unbroken-bonds": {
+   "name": "Unbroken Bonds",
    "count": 266
   },
-  "unified": {
-   "name": "Unified",
+  "unified-minds": {
+   "name": "Unified Minds",
    "count": 293
   },
   "expansion-2514": {
    "name": "expansion-2514",
    "count": 186
   },
-  "cosmic": {
-   "name": "Cosmic",
+  "cosmic-eclipse": {
+   "name": "Cosmic Eclipse",
    "count": 285
   },
   "expansion-2829": {
@@ -517,16 +541,16 @@
    "name": "expansion-2916",
    "count": 386
   },
-  "sword": {
-   "name": "Sword &",
-   "count": 258
+  "sword-shield": {
+   "name": "Sword & Shield",
+   "count": 399
   },
   "expansion-3108": {
    "name": "expansion-3108",
    "count": 66
   },
-  "rebel": {
-   "name": "Rebel",
+  "rebel-clash": {
+   "name": "Rebel Clash",
    "count": 232
   },
   "expansion-3214": {
@@ -537,8 +561,8 @@
    "name": "Explosive Flame Walker Booster",
    "count": 86
   },
-  "rebellion": {
-   "name": "Rebellion",
+  "rebellion-crash": {
+   "name": "Rebellion Crash",
    "count": 115
   },
   "vmax-rising-booster": {
@@ -573,45 +597,41 @@
    "name": "V Starter Decks",
    "count": 127
   },
-  "darkness": {
-   "name": "Darkness",
+  "darkness-ablaze": {
+   "name": "Darkness Ablaze",
    "count": 227
   },
   "shocking-volt-tackle": {
    "name": "Shocking Volt Tackle",
    "count": 121
   },
-  "champion-s": {
-   "name": "Champion\u2019s",
+  "champion-s-path": {
+   "name": "Champion\u2019s Path",
    "count": 102
   },
   "expansion-3510": {
    "name": "expansion-3510",
    "count": 5
   },
-  "vivid": {
-   "name": "Vivid",
+  "vivid-voltage": {
+   "name": "Vivid Voltage",
    "count": 222
   },
-  "shiny-star": {
-   "name": "Shiny Star",
+  "shiny-star-v": {
+   "name": "Shiny Star V",
    "count": 330
   },
   "vmax-starter-deck-venusaur-vmax": {
-   "name": "VMAX Starter Deck: Venusaur VMAX",
+   "name": "VMAX Starter Deck Venusaur VMAX",
    "count": 21
   },
   "vmax-starter-deck-blastoise-vmax": {
-   "name": "VMAX Starter Deck: Blastoise VMAX",
+   "name": "VMAX Starter Deck Blastoise VMAX",
    "count": 20
   },
   "vmax-starter-decks": {
    "name": "VMAX Starter Decks",
    "count": 61
-  },
-  "sword-shield": {
-   "name": "Sword & Shield",
-   "count": 141
   },
   "zacian-zamazenta": {
    "name": "Zacian + Zamazenta",
@@ -621,8 +641,8 @@
    "name": "VMAX Special Set",
    "count": 8
   },
-  "battle": {
-   "name": "Battle",
+  "battle-styles": {
+   "name": "Battle Styles",
    "count": 206
   },
   "single-strike-master": {
@@ -650,7 +670,7 @@
    "count": 96
   },
   "tag-team-gx-tag-all-stars-booster": {
-   "name": "Tag Team GX: Tag All Stars Booster",
+   "name": "Tag Team GX Tag All Stars Booster",
    "count": 235
   },
   "expansion-3781": {
@@ -705,8 +725,8 @@
    "name": "Double Blaze Booster",
    "count": 116
   },
-  "expansion": {
-   "name": "Expansion",
+  "expansion-pack": {
+   "name": "Expansion Pack",
    "count": 102
   },
   "expansion-4170": {
@@ -717,8 +737,8 @@
    "name": "Silver Lance & Jet Black Spirit Jumbo Pack Set",
    "count": 6
   },
-  "chilling": {
-   "name": "Chilling",
+  "chilling-reign": {
+   "name": "Chilling Reign",
    "count": 255
   },
   "full-metal-wall-booster": {
@@ -886,7 +906,7 @@
    "count": 88
   },
   "break-starter-pack-20th-anniversary": {
-   "name": "BREAK Starter Pack: 20th Anniversary",
+   "name": "BREAK Starter Pack 20th Anniversary",
    "count": 84
   },
   "pok-kyun-collection-booster": {
@@ -938,7 +958,7 @@
    "count": 20
   },
   "magma-gang-vs-aqua-gang-double-crisis-booster": {
-   "name": "Magma Gang VS Aqua Gang: Double Crisis Booster",
+   "name": "Magma Gang VS Aqua Gang Double Crisis Booster",
    "count": 34
   },
   "tidal-storm-booster": {
@@ -950,7 +970,7 @@
    "count": 80
   },
   "super-legend-set-xerneas-ex-yveltal-ex": {
-   "name": "Super Legend Set: Xerneas EX & Yveltal EX",
+   "name": "Super Legend Set Xerneas EX & Yveltal EX",
    "count": 25
   },
   "hyper-metal-chain-deck": {
@@ -1037,6 +1057,10 @@
    "name": "expansion-4251",
    "count": 131
   },
+  "ultra": {
+   "name": "Ultra",
+   "count": 41
+  },
   "ultra-sun-ultra-moon": {
    "name": "Ultra Sun & Ultra Moon",
    "count": 20
@@ -1082,7 +1106,7 @@
    "count": 7
   },
   "pok-mon-movie-premium-cards-collection-2008": {
-   "name": "Pok\u00e9mon Movie: Premium Cards Collection 2008",
+   "name": "Pok\u00e9mon Movie Premium Cards Collection 2008",
    "count": 9
   },
   "10th-movie-commemoration-set": {
@@ -1157,8 +1181,8 @@
    "name": "Freeze Bolt Booster",
    "count": 65
   },
-  "evolving": {
-   "name": "Evolving",
+  "evolving-skies": {
+   "name": "Evolving Skies",
    "count": 258
   },
   "national-pok-dex-beginning-set": {
@@ -1194,7 +1218,7 @@
    "count": 76
   },
   "battle-gift-set-thundurus-vs-tornadus": {
-   "name": "Battle Gift Set: Thundurus vs Tornadus",
+   "name": "Battle Gift Set Thundurus vs Tornadus",
    "count": 32
   },
   "zekrom-ex-battle-strength-deck": {
@@ -1214,7 +1238,7 @@
    "count": 57
   },
   "battle-theme-deck-victini": {
-   "name": "Battle Theme Deck: Victini",
+   "name": "Battle Theme Deck Victini",
    "count": 26
   },
   "red-collection-booster": {
@@ -1337,8 +1361,8 @@
    "name": "25th Anniversary Edition",
    "count": 25
   },
-  "fusion": {
-   "name": "Fusion",
+  "fusion-strike": {
+   "name": "Fusion Strike",
    "count": 303
   },
   "25th-anniversary-golden-box": {
@@ -1361,8 +1385,8 @@
    "name": "Rocket Gang Booster",
    "count": 65
   },
-  "vmax": {
-   "name": "VMAX",
+  "vmax-climax": {
+   "name": "VMAX Climax",
    "count": 293
   },
   "start-deck-100-deck": {
@@ -1409,12 +1433,12 @@
    "name": "expansion-4508",
    "count": 57
   },
-  "brilliant": {
-   "name": "Brilliant",
+  "brilliant-stars": {
+   "name": "Brilliant Stars",
    "count": 253
   },
   "darkness-and-to-light-booster": {
-   "name": "Darkness, and to Light... Booster",
+   "name": "Darkness and to Light... Booster",
    "count": 113
   },
   "expansion-4516": {
@@ -1429,8 +1453,8 @@
    "name": "Battle Region Booster",
    "count": 93
   },
-  "astral": {
-   "name": "Astral",
+  "astral-radiance": {
+   "name": "Astral Radiance",
    "count": 271
   },
   "expansion-5021": {
@@ -1461,9 +1485,9 @@
    "name": "Wind from the Sea",
    "count": 90
   },
-  "pok-mon": {
-   "name": "Pok\u00e9mon",
-   "count": 109
+  "pok-mon-go": {
+   "name": "Pok\u00e9mon GO",
+   "count": 211
   },
   "split-earth-booster": {
    "name": "Split Earth Booster",
@@ -1493,17 +1517,21 @@
    "name": "Dark Phantasma Booster",
    "count": 99
   },
-  "pok-mon-go": {
-   "name": "Pok\u00e9mon GO",
-   "count": 102
+  "lost-origin": {
+   "name": "Lost Origin",
+   "count": 266
   },
   "expansion-5098": {
    "name": "expansion-5098",
    "count": 6
   },
+  "vstar-vmax-high-class-deck-deoxys": {
+   "name": "VSTAR & VMAX High Class Deck Deoxys",
+   "count": 21
+  },
   "vstar-vmax-high-class-deck": {
    "name": "VSTAR & VMAX High Class Deck",
-   "count": 42
+   "count": 21
   },
   "lost-abyss-booster": {
    "name": "Lost Abyss Booster",
@@ -1561,16 +1589,16 @@
    "name": "SoulSilver Collection Booster",
    "count": 71
   },
-  "mcdonald-s-match-battle": {
-   "name": "McDonald's Match Battle",
+  "mcdonald-s-match-battle-2022": {
+   "name": "McDonald's Match Battle 2022",
    "count": 15
   },
   "trick-or-trade-booster": {
    "name": "Trick or Trade BOOster",
    "count": 30
   },
-  "silver": {
-   "name": "Silver",
+  "silver-tempest": {
+   "name": "Silver Tempest",
    "count": 266
   },
   "incandescent-arcana-booster": {
@@ -1580,10 +1608,6 @@
   "expansion-4277": {
    "name": "expansion-4277",
    "count": 19
-  },
-  "arceus": {
-   "name": "Arceus",
-   "count": 34
   },
   "advent-of-arceus-booster": {
    "name": "Advent of Arceus Booster",
@@ -1657,12 +1681,12 @@
    "name": "Galactic's Conquest Booster",
    "count": 96
   },
-  "paradigm": {
-   "name": "Paradigm",
+  "paradigm-trigger": {
+   "name": "Paradigm Trigger",
    "count": 125
   },
-  "special-battle-set-charizard-vstar-vs-rayquaza": {
-   "name": "Special Battle Set Charizard VSTAR vs Rayquaza",
+  "special-battle-set-charizard-vstar-vs-rayquaza-vmax": {
+   "name": "Special Battle Set Charizard VSTAR vs Rayquaza VMAX",
    "count": 32
   },
   "expansion-5201": {
@@ -1721,16 +1745,16 @@
    "name": "Premium Trainer Box ex",
    "count": 28
   },
-  "ex-starter-set-sprigatito-lucario": {
-   "name": "ex Starter Set Sprigatito & Lucario",
+  "ex-starter-set-sprigatito-lucario-ex": {
+   "name": "ex Starter Set Sprigatito & Lucario ex",
    "count": 26
   },
-  "ex-starter-set-fuecoco-ampharos": {
-   "name": "ex Starter Set Fuecoco & Ampharos",
+  "ex-starter-set-fuecoco-ampharos-ex": {
+   "name": "ex Starter Set Fuecoco & Ampharos ex",
    "count": 24
   },
-  "ex-starter-set-quaxly-mimikyu": {
-   "name": "ex Starter Set Quaxly & Mimikyu",
+  "ex-starter-set-quaxly-mimikyu-ex": {
+   "name": "ex Starter Set Quaxly & Mimikyu ex",
    "count": 26
   },
   "violet-ex-booster": {
@@ -1753,9 +1777,9 @@
    "name": "Magmortar vs Electivire Deck Kit",
    "count": 28
   },
-  "wcd": {
-   "name": "WCD",
-   "count": 426
+  "wcd-2022": {
+   "name": "WCD 2022",
+   "count": 108
   },
   "dawn-dash-booster": {
    "name": "Dawn Dash Booster",
@@ -1801,8 +1825,8 @@
    "name": "ex Starter Set Pikachu ex",
    "count": 24
   },
-  "paldea": {
-   "name": "Paldea",
+  "paldea-evolved": {
+   "name": "Paldea Evolved",
    "count": 337
   },
   "play-pok-mon-prize-pack-series-two": {
@@ -1829,8 +1853,8 @@
    "name": "expansion-5328",
    "count": 210
   },
-  "world-championships-2023-yokohama-deck": {
-   "name": "World Championships 2023 Yokohama Deck",
+  "world-championships-2023-yokohama-deck-pikachu": {
+   "name": "World Championships 2023 Yokohama Deck -Pikachu",
    "count": 32
   },
   "expansion-5402": {
@@ -1869,12 +1893,12 @@
    "name": "Trick or Trade 2023 BOOster",
    "count": 30
   },
-  "terastal-starter-set-skeledirge": {
-   "name": "Terastal Starter Set Skeledirge",
+  "terastal-starter-set-skeledirge-ex": {
+   "name": "Terastal Starter Set Skeledirge ex",
    "count": 22
   },
-  "terastal-starter-set-mewtwo": {
-   "name": "Terastal Starter Set Mewtwo",
+  "terastal-starter-set-mewtwo-ex": {
+   "name": "Terastal Starter Set Mewtwo ex",
    "count": 22
   },
   "raging-surf-booster": {
@@ -1894,31 +1918,31 @@
    "count": 48
   },
   "pok-mon-card-game-classic-venusaur-lugia-ex-deck": {
-   "name": "Pok\u00e9mon Card Game Classic: Venusaur & Lugia ex Deck",
+   "name": "Pok\u00e9mon Card Game Classic Venusaur & Lugia ex Deck",
    "count": 34
   },
   "pok-mon-card-game-classic-charizard-ho-oh-ex-deck": {
-   "name": "Pok\u00e9mon Card Game Classic: Charizard & Ho-Oh ex Deck",
+   "name": "Pok\u00e9mon Card Game Classic Charizard & Ho-Oh ex Deck",
    "count": 34
   },
   "pok-mon-card-game-classic-blastoise-suicune-ex-deck": {
-   "name": "Pok\u00e9mon Card Game Classic: Blastoise & Suicune ex Deck",
+   "name": "Pok\u00e9mon Card Game Classic Blastoise & Suicune ex Deck",
    "count": 34
   },
-  "venusaur-charizard-blastoise-special-deck-set": {
-   "name": "Venusaur & Charizard & Blastoise Special Deck Set",
+  "venusaur-charizard-blastoise-special-deck-set-ex": {
+   "name": "Venusaur & Charizard & Blastoise Special Deck Set ex",
    "count": 52
   },
   "pok-mon-trading-card-game-classic-venusaur-lugia-ex-deck": {
-   "name": "Pok\u00e9mon Trading Card Game Classic: Venusaur & Lugia ex Deck",
+   "name": "Pok\u00e9mon Trading Card Game Classic Venusaur & Lugia ex Deck",
    "count": 35
   },
   "pok-mon-trading-card-game-classic-charizard-ho-oh-ex-deck": {
-   "name": "Pok\u00e9mon Trading Card Game Classic: Charizard & Ho-Oh ex Deck",
+   "name": "Pok\u00e9mon Trading Card Game Classic Charizard & Ho-Oh ex Deck",
    "count": 34
   },
   "pok-mon-trading-card-game-classic-blastoise-suicune-ex-deck": {
-   "name": "Pok\u00e9mon Trading Card Game Classic: Blastoise & Suicune ex Deck",
+   "name": "Pok\u00e9mon Trading Card Game Classic Blastoise & Suicune ex Deck",
    "count": 34
   },
   "shiny-treasure-ex-booster": {
@@ -1952,6 +1976,10 @@
   "play-pok-mon-prize-pack-series-four": {
    "name": "Play! Pok\u00e9mon Prize Pack Series Four",
    "count": 114
+  },
+  "wcd-2023": {
+   "name": "WCD 2023",
+   "count": 109
   },
   "expansion-5681": {
    "name": "expansion-5681",
@@ -2049,20 +2077,20 @@
    "name": "expansion-5690",
    "count": 133
   },
-  "battle-academy": {
-   "name": "Battle Academy",
+  "battle-academy-2024": {
+   "name": "Battle Academy 2024",
    "count": 140
   },
-  "twilight": {
-   "name": "Twilight",
+  "twilight-masquerade": {
+   "name": "Twilight Masquerade",
    "count": 267
   },
-  "battle-master-deck-tera-charizard": {
-   "name": "Battle Master Deck Tera Charizard",
+  "battle-master-deck-tera-charizard-ex": {
+   "name": "Battle Master Deck Tera Charizard ex",
    "count": 22
   },
-  "battle-master-deck-chien-pao": {
-   "name": "Battle Master Deck Chien-Pao",
+  "battle-master-deck-chien-pao-ex": {
+   "name": "Battle Master Deck Chien-Pao ex",
    "count": 20
   },
   "night-wanderer-booster": {
@@ -2081,8 +2109,8 @@
    "name": "expansion-5834",
    "count": 80
   },
-  "shrouded": {
-   "name": "Shrouded",
+  "shrouded-fable": {
+   "name": "Shrouded Fable",
    "count": 109
   },
   "play-pok-mon-prize-pack-series-five": {
@@ -2090,7 +2118,7 @@
    "count": 115
   },
   "golden-sky-silvery-ocean-booster": {
-   "name": "Golden Sky, Silvery Ocean Booster",
+   "name": "Golden Sky Silvery Ocean Booster",
    "count": 106
   },
   "feraligatr-constructed-starter-deck": {
@@ -2174,7 +2202,7 @@
    "count": 33
   },
   "magma-vs-aqua-two-ambitions-booster": {
-   "name": "Magma VS Aqua: Two Ambitions Booster",
+   "name": "Magma VS Aqua Two Ambitions Booster",
    "count": 80
   },
   "salamence-constructed-starter-deck": {
@@ -2221,8 +2249,8 @@
    "name": "Trick or Trade 2024 BOOster",
    "count": 36
   },
-  "stellar": {
-   "name": "Stellar",
+  "stellar-crown": {
+   "name": "Stellar Crown",
    "count": 209
   },
   "paradise-dragona-booster": {
@@ -2241,40 +2269,40 @@
    "name": "Super Electric Breaker Booster",
    "count": 138
   },
-  "surging": {
-   "name": "Surging",
+  "surging-sparks": {
+   "name": "Surging Sparks",
    "count": 281
   },
   "cs5bc-brave-stars-brave": {
-   "name": "CS5bC: Brave Stars - Brave",
+   "name": "CS5bC Brave Stars  Brave",
    "count": 178
   },
   "cs5ac-brave-stars-charm": {
-   "name": "CS5aC: Brave Stars - Charm",
+   "name": "CS5aC Brave Stars  Charm",
    "count": 176
   },
   "cs5-5c-shadow-of-glory-booster": {
-   "name": "CS5.5C: Shadow of Glory Booster",
+   "name": "CS5.5C Shadow of Glory Booster",
    "count": 89
   },
   "cs6-5c-victory-star-guide-booster": {
-   "name": "CS6.5C: Victory Star Guide Booster",
+   "name": "CS6.5C Victory Star Guide Booster",
    "count": 96
   },
   "cs6ac-azure-shadow-roar": {
-   "name": "CS6aC: Azure Shadow - Roar",
+   "name": "CS6aC Azure Shadow  Roar",
    "count": 169
   },
   "cs3ac-primordial-arts-overgrow": {
-   "name": "CS3aC: Primordial Arts - Overgrow",
+   "name": "CS3aC Primordial Arts  Overgrow",
    "count": 184
   },
   "cs3bc-primordial-arts-torrent": {
-   "name": "CS3bC: Primordial Arts - Torrent",
+   "name": "CS3bC Primordial Arts  Torrent",
    "count": 179
   },
   "cs5-1c-radiant-energy-vol-2": {
-   "name": "CS5.1C: Radiant Energy Vol. 2",
+   "name": "CS5.1C Radiant Energy Vol. 2",
    "count": 23
   },
   "expansion-5927": {
@@ -2289,8 +2317,8 @@
    "name": "expansion-5928",
    "count": 237
   },
-  "prismatic": {
-   "name": "Prismatic",
+  "prismatic-evolutions": {
+   "name": "Prismatic Evolutions",
    "count": 180
   },
   "expansion-6009": {
@@ -2321,20 +2349,24 @@
    "name": "Play! Pok\u00e9mon Prize Pack Series Six",
    "count": 119
   },
-  "starter-set-ex-steven-s-beldum-metagross": {
-   "name": "Starter Set ex Steven's Beldum & Metagross",
+  "starter-set-ex-steven-s-beldum-metagross-ex": {
+   "name": "Starter Set ex Steven's Beldum & Metagross ex",
    "count": 21
   },
-  "starter-set-ex-marnie-s-morpeko-grimmsnarl": {
-   "name": "Starter Set ex Marnie's Morpeko & Grimmsnarl",
+  "starter-set-ex-marnie-s-morpeko-grimmsnarl-ex": {
+   "name": "Starter Set ex Marnie's Morpeko & Grimmsnarl ex",
    "count": 21
+  },
+  "wcd-2024": {
+   "name": "WCD 2024",
+   "count": 102
   },
   "heat-wave-arena-booster": {
    "name": "Heat Wave Arena Booster",
    "count": 92
   },
-  "journey": {
-   "name": "Journey",
+  "journey-together": {
+   "name": "Journey Together",
    "count": 190
   },
   "expansion-6088": {
@@ -2350,7 +2382,7 @@
    "count": 132
   },
   "csv2c-miracle-journey": {
-   "name": "CSV2C: Miracle Journey",
+   "name": "CSV2C Miracle Journey",
    "count": 163
   },
   "expansion-6128": {
@@ -2362,11 +2394,11 @@
    "count": 302
   },
   "cbb2c-gem-pack-vol-2-booster": {
-   "name": "CBB2C: Gem Pack Vol. 2 Booster",
+   "name": "CBB2C Gem Pack Vol. 2 Booster",
    "count": 140
   },
-  "destined": {
-   "name": "Destined",
+  "destined-rivals": {
+   "name": "Destined Rivals",
    "count": 244
   },
   "expansion-6140": {
@@ -2374,7 +2406,7 @@
    "count": 44
   },
   "csv3c-fearless-terastal": {
-   "name": "CSV3C: Fearless Terastal",
+   "name": "CSV3C Fearless Terastal",
    "count": 165
   },
   "expansion-5415": {
@@ -2383,7 +2415,7 @@
   },
   "black-bolt": {
    "name": "Black Bolt",
-   "count": 174
+   "count": 346
   },
   "white-flare-jp": {
    "name": "White Flare JP",
@@ -2394,23 +2426,23 @@
    "count": 141
   },
   "csv1c-eternal-birth": {
-   "name": "CSV1C: Eternal Birth",
+   "name": "CSV1C Eternal Birth",
    "count": 167
   },
   "cs4ac-nine-colors-gathering-friends": {
-   "name": "CS4aC: Nine Colors Gathering - Friends",
+   "name": "CS4aC Nine Colors Gathering  Friends",
    "count": 184
   },
   "cs4bc-nine-colors-gathering-origin": {
-   "name": "CS4bC: Nine Colors Gathering - Origin",
+   "name": "CS4bC Nine Colors Gathering  Origin",
    "count": 177
   },
   "csv4c-bonus-round": {
-   "name": "CSV4C: Bonus Round",
+   "name": "CSV4C Bonus Round",
    "count": 165
   },
-  "white": {
-   "name": "White",
+  "white-flare": {
+   "name": "White Flare",
    "count": 173
   },
   "expansion-6197": {
@@ -2454,11 +2486,11 @@
    "count": 92
   },
   "cs6bc-azure-shadow-pursuit": {
-   "name": "CS6bC: Azure Shadow - Pursuit",
+   "name": "CS6bC Azure Shadow  Pursuit",
    "count": 172
   },
   "cs4-5c-final-flame-dance-booster": {
-   "name": "CS4.5C: Final Flame Dance Booster",
+   "name": "CS4.5C Final Flame Dance Booster",
    "count": 83
   },
   "play-pok-mon-prize-pack-series-seven": {
@@ -2466,15 +2498,15 @@
    "count": 119
   },
   "cs3-5c-scorching-skies-booster": {
-   "name": "CS3.5C: Scorching Skies Booster",
+   "name": "CS3.5C Scorching Skies Booster",
    "count": 90
   },
   "cs4-1c-radiant-energy-vol-1": {
-   "name": "CS4.1C: Radiant Energy Vol.1",
+   "name": "CS4.1C Radiant Energy Vol.1",
    "count": 23
   },
   "cs6-1c-radiant-energy-vol-3": {
-   "name": "CS6.1C: Radiant Energy Vol. 3",
+   "name": "CS6.1C Radiant Energy Vol. 3",
    "count": 24
   },
   "expansion-6275": {
@@ -2482,31 +2514,31 @@
    "count": 26
   },
   "cs2-5c-brilliant-counterattack-booster": {
-   "name": "CS2.5C: Brilliant Counterattack Booster",
+   "name": "CS2.5C Brilliant Counterattack Booster",
    "count": 79
   },
   "cs2ac-vivid-portrayals-obsidian": {
-   "name": "CS2aC: Vivid Portrayals - Obsidian",
+   "name": "CS2aC Vivid Portrayals  Obsidian",
    "count": 143
   },
   "cs2bc-vivid-portrayals-indigo": {
-   "name": "CS2bC: Vivid Portrayals - Indigo",
+   "name": "CS2bC Vivid Portrayals  Indigo",
    "count": 143
   },
   "cs1-5c-dynamax-tactics-booster": {
-   "name": "CS1.5C: Dynamax Tactics Booster",
+   "name": "CS1.5C Dynamax Tactics Booster",
    "count": 96
   },
   "cs1ac-dynamax-clash-thunder": {
-   "name": "CS1aC: Dynamax Clash - Thunder",
+   "name": "CS1aC Dynamax Clash  Thunder",
    "count": 217
   },
-  "mega-starter-set-mega-diancie": {
-   "name": "MEGA Starter Set Mega Diancie",
+  "mega-starter-set-mega-diancie-ex": {
+   "name": "MEGA Starter Set Mega Diancie ex",
    "count": 23
   },
-  "mega-starter-set-mega-gengar": {
-   "name": "MEGA Starter Set Mega Gengar",
+  "mega-starter-set-mega-gengar-ex": {
+   "name": "MEGA Starter Set Mega Gengar ex",
    "count": 23
   },
   "quicksand-card-display-pendant-gift": {
@@ -2522,27 +2554,27 @@
    "count": 20
   },
   "cs1bc-dynamax-clash-flame": {
-   "name": "CS1bC: Dynamax Clash - Flame",
+   "name": "CS1bC Dynamax Clash  Flame",
    "count": 199
   },
   "csv5c-dark-crystal-blaze": {
-   "name": "CSV5C: Dark Crystal Blaze",
+   "name": "CSV5C Dark Crystal Blaze",
    "count": 164
   },
   "csm2-5c-striking-competition-booster": {
-   "name": "CSM2.5C: Striking Competition Booster",
+   "name": "CSM2.5C Striking Competition Booster",
    "count": 99
   },
   "csm1-5c-battle-elite-booster": {
-   "name": "CSM1.5C: Battle Elite Booster",
+   "name": "CSM1.5C Battle Elite Booster",
    "count": 88
   },
   "csm2ac-shining-synergy-shower": {
-   "name": "CSM2aC: Shining Synergy - Shower",
+   "name": "CSM2aC Shining Synergy  Shower",
    "count": 194
   },
   "cbb3c-gem-pack-vol-3-booster": {
-   "name": "CBB3C: Gem Pack Vol. 3 Booster",
+   "name": "CBB3C Gem Pack Vol. 3 Booster",
    "count": 136
   },
   "inferno-x-booster": {
@@ -2550,7 +2582,7 @@
    "count": 116
   },
   "csm2bc-shining-synergy-supreme": {
-   "name": "CSM2bC: Shining Synergy - Supreme",
+   "name": "CSM2bC Shining Synergy  Supreme",
    "count": 193
   },
   "expansion-6290": {
@@ -2570,7 +2602,7 @@
    "count": 188
   },
   "csm2cc-shining-synergy-summon": {
-   "name": "CSM2cC: Shining Synergy - Summon",
+   "name": "CSM2cC Shining Synergy  Summon",
    "count": 192
   },
   "expansion-6309": {
@@ -2578,15 +2610,15 @@
    "count": 101
   },
   "csm1ac-storming-emergence-radiant": {
-   "name": "CSM1aC: Storming Emergence - Radiant",
+   "name": "CSM1aC Storming Emergence  Radiant",
    "count": 211
   },
   "csm1bc-storming-emergence-verdant": {
-   "name": "CSM1bC: Storming Emergence - Verdant",
+   "name": "CSM1bC Storming Emergence  Verdant",
    "count": 204
   },
   "csm1cc-storming-emergence-abundant": {
-   "name": "CSM1cC: Storming Emergence - Abundant",
+   "name": "CSM1cC Storming Emergence  Abundant",
    "count": 212
   },
   "expansion-6347": {
@@ -2633,12 +2665,12 @@
    "name": "expansion-6231",
    "count": 15
   },
-  "phantasmal": {
-   "name": "Phantasmal",
+  "phantasmal-flames": {
+   "name": "Phantasmal Flames",
    "count": 130
   },
   "csv6c-true-mystery": {
-   "name": "CSV6C: True Mystery",
+   "name": "CSV6C True Mystery",
    "count": 163
   },
   "expansion-6300": {
@@ -2669,16 +2701,12 @@
    "name": "Mega Evolution",
    "count": 58
   },
-  "black-white": {
-   "name": "Black & White",
-   "count": 176
-  },
   "expansion-6310": {
    "name": "expansion-6310",
    "count": 232
   },
   "csvh2c-happy-combo-lucario-greninja-zamazenta-mabosstiff-box-set": {
-   "name": "CSVH2C: Happy Combo Lucario & Greninja & Zamazenta & Mabosstiff Box Set",
+   "name": "CSVH2C Happy Combo Lucario & Greninja & Zamazenta & Mabosstiff Box Set",
    "count": 118
   },
   "expansion-6311": {
@@ -2790,7 +2818,7 @@
    "count": 111
   },
   "wcd-2008-bliss-control-deck": {
-   "name": "WCD 2008: Bliss Control Deck",
+   "name": "WCD 2008 Bliss Control Deck",
    "count": 95
   },
   "expansion-1756": {
@@ -2805,8 +2833,8 @@
    "name": "expansion-6455",
    "count": 293
   },
-  "ascended": {
-   "name": "Ascended",
+  "ascended-heroes": {
+   "name": "Ascended Heroes",
    "count": 296
   },
   "expansion-1754": {
@@ -2814,7 +2842,7 @@
    "count": 89
   },
   "cbb4c-gem-pack-vol-4-booster": {
-   "name": "CBB4C: Gem Pack Vol. 4 Booster",
+   "name": "CBB4C Gem Pack Vol. 4 Booster",
    "count": 196
   },
   "expansion-1753": {
@@ -2830,7 +2858,7 @@
    "count": 48
   },
   "30th-anniversary-celebration-simplified-chinese-original-partner-card-set": {
-   "name": "30th Anniversary Celebration Simplified Chinese: Original Partner Card Set",
+   "name": "30th Anniversary Celebration Simplified Chinese Original Partner Card Set",
    "count": 18
   },
   "expansion-6494": {
@@ -2841,8 +2869,8 @@
    "name": "expansion-6495",
    "count": 264
   },
-  "perfect": {
-   "name": "Perfect",
+  "perfect-order": {
+   "name": "Perfect Order",
    "count": 125
   },
   "expansion-6516": {
@@ -2854,7 +2882,7 @@
    "count": 19
   },
   "csnc-brave-stars-deck-building-gift": {
-   "name": "CSNC: Brave Stars Deck Building Gift",
+   "name": "CSNC Brave Stars Deck Building Gift",
    "count": 24
   },
   "expansion-6549": {
@@ -2866,35 +2894,39 @@
    "count": 54
   },
   "cscc-primordial-arts-deck-building-gift-box-blastoise": {
-   "name": "CSCC: Primordial Arts Deck Building Gift Box Blastoise",
+   "name": "CSCC Primordial Arts Deck Building Gift Box Blastoise",
    "count": 19
   },
   "csbc-primordial-arts-deck-building-gift-box-venusaur": {
-   "name": "CSBC: Primordial Arts Deck Building Gift Box Venusaur",
+   "name": "CSBC Primordial Arts Deck Building Gift Box Venusaur",
    "count": 19
   },
   "csac-dynamax-clash-deck-building": {
-   "name": "CSAC: Dynamax Clash Deck Building",
+   "name": "CSAC Dynamax Clash Deck Building",
    "count": 24
   },
   "cs5dc-brave-stars-v-starter-deck": {
-   "name": "CS5DC: Brave Stars V Starter Deck",
+   "name": "CS5DC Brave Stars V Starter Deck",
    "count": 163
   },
   "cs3dc-primordial-arts-v-starter-deck": {
-   "name": "CS3DC: Primordial Arts V Starter Deck",
+   "name": "CS3DC Primordial Arts V Starter Deck",
    "count": 183
   },
   "void-blast": {
    "name": "Void Blast",
    "count": 58
   },
+  "wcd-2025": {
+   "name": "WCD 2025",
+   "count": 107
+  },
   "cbb5c-gem-pack-vol-5-booster": {
-   "name": "CBB5C: Gem Pack Vol. 5 Booster",
+   "name": "CBB5C Gem Pack Vol. 5 Booster",
    "count": 196
   },
-  "chaos": {
-   "name": "Chaos",
+  "chaos-rising": {
+   "name": "Chaos Rising",
    "count": 122
   },
   "expansion-6518": {
@@ -2902,7 +2934,7 @@
    "count": 12
   },
   "cs1dc-dynamax-clash-v-starter-deck": {
-   "name": "CS1DC: Dynamax Clash V Starter Deck",
+   "name": "CS1DC Dynamax Clash V Starter Deck",
    "count": 222
   },
   "expansion-6581": {
@@ -2910,7 +2942,7 @@
    "count": 336
   },
   "csv9c-stellar-crystal": {
-   "name": "CSV9C: Stellar Crystal",
+   "name": "CSV9C Stellar Crystal",
    "count": 266
   },
   "expansion-6543": {
@@ -2950,7 +2982,7 @@
    "count": 63
   },
   "csv9-5c-terastal-gathering": {
-   "name": "CSV9.5C: Terastal Gathering",
+   "name": "CSV9.5C Terastal Gathering",
    "count": 259
   },
   "play-pok-mon-prize-pack-series-nine": {
@@ -2965,8 +2997,8 @@
    "name": "expansion-6640",
    "count": 4
   },
-  "pitch": {
-   "name": "Pitch",
+  "pitch-black": {
+   "name": "Pitch Black",
    "count": 120
   }
  }
