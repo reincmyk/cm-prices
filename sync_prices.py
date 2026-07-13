@@ -44,7 +44,8 @@ TYPE_WORDS = {
 
 def common_token_prefix(names):
     """Langste gemeenschappelijke woord-prefix over meerdere productnamen."""
-    token_lists = [n.split() for n in names if n]
+    # Leestekens aan woordeinden normaliseren: "Together:" == "Together"
+    token_lists = [[t.rstrip(":,;-–") for t in n.split()] for n in names if n]
     if not token_lists:
         return None
     prefix = []
