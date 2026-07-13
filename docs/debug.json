@@ -1,0 +1,49 @@
+{
+ "product_sample": [
+  {
+   "idProduct": 273532,
+   "name": "Weedle [Multiply]",
+   "idCategory": 51,
+   "categoryName": "Pok\u00e9mon Single",
+   "idExpansion": 1585,
+   "idMetacard": 340471,
+   "dateAdded": "0000-00-00 00:00:00"
+  },
+  {
+   "idProduct": 273533,
+   "name": "Kakuna [Bug Bite | Primal Clash]",
+   "idCategory": 51,
+   "categoryName": "Pok\u00e9mon Single",
+   "idExpansion": 1585,
+   "idMetacard": 340472,
+   "dateAdded": "0000-00-00 00:00:00"
+  }
+ ],
+ "product_keys": [
+  "categoryName",
+  "dateAdded",
+  "idCategory",
+  "idExpansion",
+  "idMetacard",
+  "idProduct",
+  "name"
+ ],
+ "expansion_candidates": [
+  {
+   "url": "https://downloads.s3.cardmarket.com/productCatalog/expansionList/expansions_6.json",
+   "ok": false,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "url": "https://downloads.s3.cardmarket.com/productCatalog/expansions/expansions_6.json",
+   "ok": false,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "url": "https://downloads.s3.cardmarket.com/productCatalog/expansionCatalog/expansions_6.json",
+   "ok": false,
+   "error": "HTTP Error 403: Forbidden"
+  }
+ ],
+ "expansion_names_found": 0
+}
