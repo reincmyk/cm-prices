@@ -30,20 +30,10 @@
  ],
  "expansion_candidates": [
   {
-   "url": "https://downloads.s3.cardmarket.com/productCatalog/expansionList/expansions_6.json",
-   "ok": false,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "url": "https://downloads.s3.cardmarket.com/productCatalog/expansions/expansions_6.json",
-   "ok": false,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "url": "https://downloads.s3.cardmarket.com/productCatalog/expansionCatalog/expansions_6.json",
-   "ok": false,
-   "error": "HTTP Error 403: Forbidden"
+   "url": "https://downloads.s3.cardmarket.com/productCatalog/productList/products_nonsingles_6.json",
+   "ok": true,
+   "names_derived": 538
   }
  ],
- "expansion_names_found": 0
+ "expansion_names_found": 538
 }
