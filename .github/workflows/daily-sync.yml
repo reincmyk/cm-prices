@@ -1,0 +1,26 @@
+name: Dagelijkse Cardmarket prijs-sync
+
+on:
+  schedule:
+    - cron: "30 4 * * *"   # elke dag 04:30 UTC (Cardmarket publiceert rond 02:44)
+  workflow_dispatch: {}      # handmatig starten kan ook
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync prijzen
+        run: python3 sync_prices.py
+
+      - name: Commit en push
+        run: |
+          git config user.name "prijs-sync-bot"
+          git config user.email "actions@github.com"
+          git add docs/prices
+          git diff --cached --quiet || git commit -m "Prijsupdate $(date -u +%F)"
+          git push
