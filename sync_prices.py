@@ -29,7 +29,14 @@ CATALOG_URL_CANDIDATES = [
     "https://downloads.s3.cardmarket.com/productCatalog/productList/products_6.json",
 ]
 
+EXPANSION_URL_CANDIDATES = [
+    "https://downloads.s3.cardmarket.com/productCatalog/expansionList/expansions_6.json",
+    "https://downloads.s3.cardmarket.com/productCatalog/expansions/expansions_6.json",
+    "https://downloads.s3.cardmarket.com/productCatalog/expansionCatalog/expansions_6.json",
+]
+
 OUT_DIR = Path(__file__).parent / "docs" / "prices"
+DEBUG_FILE = Path(__file__).parent / "docs" / "debug.json"
 
 
 def fetch_json(url: str):
@@ -67,6 +74,33 @@ def main() -> int:
     products = catalog.get("products", catalog if isinstance(catalog, list) else [])
     print(f"    {len(products)} catalogus-items")
 
+    # Expansielijst proberen (idExpansion -> naam)
+    exp_map = {}
+    exp_debug = []
+    for url in EXPANSION_URL_CANDIDATES:
+        try:
+            exp_data = fetch_json(url)
+            items = exp_data.get("expansions", exp_data if isinstance(exp_data, list) else [])
+            for e in items:
+                eid = e.get("idExpansion") or e.get("id")
+                ename = e.get("enName") or e.get("name")
+                if eid and ename:
+                    exp_map[eid] = ename
+            exp_debug.append({"url": url, "ok": True, "count": len(exp_map)})
+            print(f"    Expansielijst gevonden: {url} ({len(exp_map)} namen)")
+            break
+        except Exception as e:
+            exp_debug.append({"url": url, "ok": False, "error": str(e)[:120]})
+
+    # Zelfdiagnose: ruwe structuur wegschrijven zodat problemen op afstand leesbaar zijn
+    DEBUG_FILE.parent.mkdir(parents=True, exist_ok=True)
+    DEBUG_FILE.write_text(json.dumps({
+        "product_sample": products[:2],
+        "product_keys": sorted(products[0].keys()) if products else [],
+        "expansion_candidates": exp_debug,
+        "expansion_names_found": len(exp_map),
+    }, indent=1, default=str), encoding="utf-8")
+
     # Expansienamen: soms als apart veld per product ("expansionName" / "expansion"),
     # soms alleen idExpansion. Vang beide af.
     print("3/4 Koppelen per expansie...")
@@ -78,9 +112,13 @@ def main() -> int:
         if not pg:
             missing_price += 1
             continue
+        website = prod.get("website") or ""
+        m = re.search(r"/Singles/([^/]+)/", website)
         exp_name = (
             prod.get("expansionName")
             or prod.get("expansion")
+            or exp_map.get(prod.get("idExpansion"))
+            or (m.group(1).replace("-", " ") if m else None)
             or f"expansion-{prod.get('idExpansion', 'onbekend')}"
         )
         entry = {
@@ -92,6 +130,8 @@ def main() -> int:
             "avg7": pg.get("avg7"),
             "avg30": pg.get("avg30"),
         }
+        if website:
+            entry["url"] = "https://www.cardmarket.com" + website
         # Reverse holo-varianten meenemen als aanwezig
         if pg.get("trend-holo") is not None:
             entry["trend_holo"] = pg.get("trend-holo")
