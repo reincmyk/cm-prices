@@ -21,6 +21,6 @@ jobs:
         run: |
           git config user.name "prijs-sync-bot"
           git config user.email "actions@github.com"
-          git add docs/prices
+          git add docs
           git diff --cached --quiet || git commit -m "Prijsupdate $(date -u +%F)"
           git push
