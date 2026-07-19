@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T02:43:06+0200",
+ "updated": "2026-07-19T02:45:23+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -2375,7 +2375,7 @@
   },
   "mission-reward-vol": {
    "name": "Mission Reward Vol.",
-   "count": 304
+   "count": 305
   },
   "the-glory-of-team-rocket": {
    "name": "The Glory of Team Rocket",
@@ -2471,7 +2471,7 @@
   },
   "expansion-6230": {
    "name": "expansion-6230",
-   "count": 131
+   "count": 138
   },
   "premium-trainer-box-mega": {
    "name": "Premium Trainer Box MEGA",
@@ -2859,7 +2859,7 @@
   },
   "30th-anniversary-celebration-simplified-chinese-original-partner-card-set": {
    "name": "30th Anniversary Celebration Simplified Chinese Original Partner Card Set",
-   "count": 18
+   "count": 27
   },
   "expansion-6494": {
    "name": "expansion-6494",
@@ -3000,6 +3000,10 @@
   "pitch-black": {
    "name": "Pitch Black",
    "count": 120
+  },
+  "csv10c-chasing-glory-together": {
+   "name": "CSV10C Chasing Glory Together",
+   "count": 287
   }
  }
 }
