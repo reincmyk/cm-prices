@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T02:47:42+0200",
+ "updated": "2026-07-23T02:50:28+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -3004,6 +3004,10 @@
   "csv10c-chasing-glory-together": {
    "name": "CSV10C Chasing Glory Together",
    "count": 287
+  },
+  "csvh5c-happy-set-mewtwo-dragonite-camerupt-sinistcha": {
+   "name": "CSVH5C Happy Set Mewtwo & Dragonite & Camerupt & Sinistcha",
+   "count": 78
   }
  }
 }
