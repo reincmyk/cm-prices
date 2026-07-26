@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T02:48:22+0200",
+ "updated": "2026-07-26T02:44:32+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -3012,6 +3012,18 @@
   "expansion-6635": {
    "name": "expansion-6635",
    "count": 97
+  },
+  "mega-starter-set-sprigatito-meowscarada-ex": {
+   "name": "MEGA Starter Set Sprigatito & Meowscarada ex",
+   "count": 18
+  },
+  "mega-starter-set-zorua-zoroark-ex": {
+   "name": "MEGA Starter Set Zorua & Zoroark ex",
+   "count": 20
+  },
+  "mega-starter-set-eevee-ex": {
+   "name": "MEGA Starter Set Eevee ex",
+   "count": 20
   }
  }
 }
