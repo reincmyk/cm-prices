@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T02:46:28+0200",
+ "updated": "2026-07-29T02:42:33+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -2471,7 +2471,7 @@
   },
   "expansion-6230": {
    "name": "expansion-6230",
-   "count": 138
+   "count": 141
   },
   "premium-trainer-box-mega": {
    "name": "Premium Trainer Box MEGA",
@@ -2995,7 +2995,7 @@
   },
   "expansion-6640": {
    "name": "expansion-6640",
-   "count": 12
+   "count": 13
   },
   "pitch-black": {
    "name": "Pitch Black",
@@ -3024,6 +3024,14 @@
   "mega-starter-set-eevee-ex": {
    "name": "MEGA Starter Set Eevee ex",
    "count": 20
+  },
+  "expansion-6672": {
+   "name": "expansion-6672",
+   "count": 146
+  },
+  "expansion-6673": {
+   "name": "expansion-6673",
+   "count": 85
   }
  }
 }
