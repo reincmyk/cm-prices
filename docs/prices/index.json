@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T02:42:33+0200",
+ "updated": "2026-07-31T02:42:27+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -3031,7 +3031,11 @@
   },
   "expansion-6673": {
    "name": "expansion-6673",
-   "count": 149
+   "count": 380
+  },
+  "storm-emeralda-booster": {
+   "name": "Storm Emeralda Booster",
+   "count": 113
   }
  }
 }
