@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T02:43:30+0200",
+ "updated": "2026-08-07T02:45:09+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -135,7 +135,7 @@
   },
   "ex-deoxys": {
    "name": "EX Deoxys",
-   "count": 110
+   "count": 113
   },
   "ex-emerald": {
    "name": "EX Emerald",
@@ -143,7 +143,7 @@
   },
   "expansion-1548": {
    "name": "expansion-1548",
-   "count": 146
+   "count": 147
   },
   "ex-delta-species": {
    "name": "EX Delta Species",
@@ -195,7 +195,7 @@
   },
   "diamond-pearl": {
    "name": "Diamond & Pearl",
-   "count": 142
+   "count": 145
   },
   "mysterious-treasures": {
    "name": "Mysterious Treasures",
@@ -435,7 +435,7 @@
   },
   "evolutions": {
    "name": "Evolutions",
-   "count": 131
+   "count": 132
   },
   "expansion-1745": {
    "name": "expansion-1745",
@@ -3036,6 +3036,10 @@
   "storm-emeralda-booster": {
    "name": "Storm Emeralda Booster",
    "count": 113
+  },
+  "expansion-6683": {
+   "name": "expansion-6683",
+   "count": 1
   }
  }
 }
