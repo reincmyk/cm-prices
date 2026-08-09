@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T02:45:04+0200",
+ "updated": "2026-08-09T02:48:58+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -3040,6 +3040,10 @@
   "expansion-6683": {
    "name": "expansion-6683",
    "count": 1
+  },
+  "cbb6c-gem-pack-vol-6-booster": {
+   "name": "CBB6C Gem Pack Vol. 6 Booster",
+   "count": 7
   }
  }
 }
