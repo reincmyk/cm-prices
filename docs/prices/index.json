@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T02:45:59+0200",
+ "updated": "2026-08-12T02:43:55+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -1987,11 +1987,11 @@
   },
   "expansion-5682": {
    "name": "expansion-5682",
-   "count": 11
+   "count": 22
   },
   "expansion-5683": {
    "name": "expansion-5683",
-   "count": 10
+   "count": 17
   },
   "expansion-5684": {
    "name": "expansion-5684",
@@ -2003,7 +2003,7 @@
   },
   "expansion-5686": {
    "name": "expansion-5686",
-   "count": 11
+   "count": 20
   },
   "scarlet-violet": {
    "name": "Scarlet & Violet",
@@ -2375,7 +2375,7 @@
   },
   "mission-reward-vol": {
    "name": "Mission Reward Vol.",
-   "count": 356
+   "count": 357
   },
   "the-glory-of-team-rocket": {
    "name": "The Glory of Team Rocket",
@@ -3043,7 +3043,7 @@
   },
   "cbb6c-gem-pack-vol-6-booster": {
    "name": "CBB6C Gem Pack Vol. 6 Booster",
-   "count": 7
+   "count": 196
   }
  }
 }
