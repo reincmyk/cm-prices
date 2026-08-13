@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T02:43:55+0200",
+ "updated": "2026-08-13T02:45:24+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -263,7 +263,7 @@
   },
   "heartgold-soulsilver": {
    "name": "HeartGold & SoulSilver",
-   "count": 141
+   "count": 158
   },
   "hs-trainer-kit": {
    "name": "HS Trainer Kit",
@@ -271,7 +271,7 @@
   },
   "unleashed": {
    "name": "Unleashed",
-   "count": 106
+   "count": 113
   },
   "undaunted": {
    "name": "Undaunted",
@@ -1275,7 +1275,7 @@
   },
   "expansion-4340": {
    "name": "expansion-4340",
-   "count": 19
+   "count": 20
   },
   "expansion-4342": {
    "name": "expansion-4342",
@@ -1983,7 +1983,7 @@
   },
   "expansion-5681": {
    "name": "expansion-5681",
-   "count": 9
+   "count": 25
   },
   "expansion-5682": {
    "name": "expansion-5682",
@@ -1991,15 +1991,15 @@
   },
   "expansion-5683": {
    "name": "expansion-5683",
-   "count": 17
+   "count": 19
   },
   "expansion-5684": {
    "name": "expansion-5684",
-   "count": 7
+   "count": 22
   },
   "expansion-5685": {
    "name": "expansion-5685",
-   "count": 11
+   "count": 19
   },
   "expansion-5686": {
    "name": "expansion-5686",
@@ -3007,7 +3007,7 @@
   },
   "csvh5c-happy-set-mewtwo-dragonite-camerupt-sinistcha": {
    "name": "CSVH5C Happy Set Mewtwo & Dragonite & Camerupt & Sinistcha",
-   "count": 78
+   "count": 141
   },
   "expansion-6635": {
    "name": "expansion-6635",
