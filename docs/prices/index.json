@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T02:43:34+0200",
+ "updated": "2026-08-19T02:47:26+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -731,7 +731,7 @@
   },
   "expansion-4170": {
    "name": "expansion-4170",
-   "count": 206
+   "count": 207
   },
   "silver-lance-jet-black-spirit-jumbo-pack-set": {
    "name": "Silver Lance & Jet Black Spirit Jumbo Pack Set",
@@ -1183,7 +1183,7 @@
   },
   "evolving-skies": {
    "name": "Evolving Skies",
-   "count": 259
+   "count": 260
   },
   "national-pok-dex-beginning-set": {
    "name": "National Pok\u00e9dex Beginning Set",
@@ -2375,7 +2375,7 @@
   },
   "mission-reward-vol": {
    "name": "Mission Reward Vol.",
-   "count": 357
+   "count": 358
   },
   "the-glory-of-team-rocket": {
    "name": "The Glory of Team Rocket",
@@ -3048,6 +3048,10 @@
   "expansion-6694": {
    "name": "expansion-6694",
    "count": 187
+  },
+  "expansion-6697": {
+   "name": "expansion-6697",
+   "count": 37
   }
  }
 }
