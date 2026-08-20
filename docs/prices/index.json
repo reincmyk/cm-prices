@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T02:47:26+0200",
+ "updated": "2026-08-20T02:49:38+0200",
  "expansions": {
   "primal-clash": {
    "name": "Primal Clash",
@@ -2687,7 +2687,7 @@
   },
   "expansion-6391": {
    "name": "expansion-6391",
-   "count": 128
+   "count": 198
   },
   "expansion-6392": {
    "name": "expansion-6392",
@@ -2831,7 +2831,7 @@
   },
   "expansion-6455": {
    "name": "expansion-6455",
-   "count": 293
+   "count": 294
   },
   "ascended-heroes": {
    "name": "Ascended Heroes",
@@ -3052,6 +3052,10 @@
   "expansion-6697": {
    "name": "expansion-6697",
    "count": 37
+  },
+  "expansion-6699": {
+   "name": "expansion-6699",
+   "count": 70
   }
  }
 }
