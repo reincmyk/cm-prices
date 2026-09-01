@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T02:47:49+0200",
+ "updated": "2026-09-01T02:49:52+0200",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -67,7 +67,7 @@
   },
   "expansion-2107": {
    "name": "expansion-2107",
-   "count": 92
+   "count": 94
   },
   "expansion-1605": {
    "name": "expansion-1605",
@@ -123,11 +123,11 @@
   },
   "ex-hidden-legends": {
    "name": "EX Hidden Legends",
-   "count": 108
+   "count": 107
   },
   "ex-firered-leafgreen": {
    "name": "EX FireRed & LeafGreen",
-   "count": 116
+   "count": 117
   },
   "ex-team-rocket-returns": {
    "name": "EX Team Rocket Returns",
@@ -263,7 +263,7 @@
   },
   "heartgold-soulsilver": {
    "name": "HeartGold & SoulSilver",
-   "count": 158
+   "count": 150
   },
   "hs-trainer-kit": {
    "name": "HS Trainer Kit",
@@ -295,7 +295,7 @@
   },
   "expansion-1645": {
    "name": "expansion-1645",
-   "count": 443
+   "count": 432
   },
   "emerging-powers": {
    "name": "Emerging Powers",
@@ -439,15 +439,19 @@
   },
   "expansion-1745": {
    "name": "expansion-1745",
-   "count": 235
+   "count": 226
   },
   "expansion-1752": {
    "name": "expansion-1752",
    "count": 12
   },
-  "expansion-1757": {
-   "name": "expansion-1757",
+  "general-mills-2018-sun-moon-booster-3-cards": {
+   "name": "General Mills 2018 Sun & Moon Booster (3 Cards)",
    "count": 316
+  },
+  "expansion-6697": {
+   "name": "expansion-6697",
+   "count": 80
   },
   "guardians-rising": {
    "name": "Guardians Rising",
@@ -505,13 +509,17 @@
    "name": "Lost Thunder",
    "count": 275
   },
+  "wcd-2018": {
+   "name": "WCD 2018",
+   "count": 98
+  },
   "expansion-2404": {
    "name": "expansion-2404",
    "count": 12
   },
   "team-up": {
    "name": "Team Up",
-   "count": 228
+   "count": 219
   },
   "expansion-2438": {
    "name": "expansion-2438",
@@ -543,7 +551,7 @@
   },
   "sword-shield": {
    "name": "Sword & Shield",
-   "count": 399
+   "count": 390
   },
   "expansion-3108": {
    "name": "expansion-3108",
@@ -551,7 +559,7 @@
   },
   "rebel-clash": {
    "name": "Rebel Clash",
-   "count": 232
+   "count": 233
   },
   "expansion-3214": {
    "name": "expansion-3214",
@@ -600,6 +608,10 @@
   "darkness-ablaze": {
    "name": "Darkness Ablaze",
    "count": 227
+  },
+  "expansion-5798": {
+   "name": "expansion-5798",
+   "count": 6
   },
   "shocking-volt-tackle": {
    "name": "Shocking Volt Tackle",
@@ -679,7 +691,7 @@
   },
   "expansion-6200": {
    "name": "expansion-6200",
-   "count": 137
+   "count": 138
   },
   "gx-ultra-shiny-booster": {
    "name": "GX Ultra Shiny Booster",
@@ -1435,7 +1447,7 @@
   },
   "brilliant-stars": {
    "name": "Brilliant Stars",
-   "count": 253
+   "count": 245
   },
   "darkness-and-to-light-booster": {
    "name": "Darkness and to Light... Booster",
@@ -1847,7 +1859,7 @@
   },
   "expansion-5385": {
    "name": "expansion-5385",
-   "count": 272
+   "count": 271
   },
   "expansion-5328": {
    "name": "expansion-5328",
@@ -2107,7 +2119,7 @@
   },
   "expansion-5834": {
    "name": "expansion-5834",
-   "count": 84
+   "count": 85
   },
   "shrouded-fable": {
    "name": "Shrouded Fable",
@@ -2251,7 +2263,7 @@
   },
   "stellar-crown": {
    "name": "Stellar Crown",
-   "count": 209
+   "count": 208
   },
   "paradise-dragona-booster": {
    "name": "Paradise Dragona Booster",
@@ -2471,7 +2483,7 @@
   },
   "expansion-6230": {
    "name": "expansion-6230",
-   "count": 143
+   "count": 144
   },
   "premium-trainer-box-mega": {
    "name": "Premium Trainer Box MEGA",
@@ -2509,8 +2521,8 @@
    "name": "CS6.1C Radiant Energy Vol. 3",
    "count": 24
   },
-  "expansion-6275": {
-   "name": "expansion-6275",
+  "csfc-return-of-the-dragon": {
+   "name": "CSFC Return of the Dragon",
    "count": 26
   },
   "cs2-5c-brilliant-counterattack-booster": {
@@ -2541,8 +2553,8 @@
    "name": "MEGA Starter Set Mega Gengar ex",
    "count": 23
   },
-  "quicksand-card-display-pendant-gift": {
-   "name": "Quicksand Card Display Pendant Gift",
+  "pikachu-eevee-quicksand-card-display-pendant-gift": {
+   "name": "Pikachu & Eevee Quicksand Card Display Pendant Gift",
    "count": 4
   },
   "expansion-6302": {
@@ -2591,7 +2603,7 @@
   },
   "expansion-6232": {
    "name": "expansion-6232",
-   "count": 149
+   "count": 151
   },
   "expansion-6324": {
    "name": "expansion-6324",
@@ -2653,8 +2665,8 @@
    "name": "expansion-6367",
    "count": 8
   },
-  "arceus-dialga-palkia-gx-premium-deck-building": {
-   "name": "Arceus & Dialga & Palkia GX Premium Deck Building",
+  "csmac-arceus-dialga-palkia-gx-premium-deck-building": {
+   "name": "CSMAC Arceus & Dialga & Palkia GX Premium Deck Building",
    "count": 19
   },
   "shining-pok-mon-pok-ball-gift": {
@@ -2687,7 +2699,7 @@
   },
   "expansion-6391": {
    "name": "expansion-6391",
-   "count": 198
+   "count": 199
   },
   "expansion-6392": {
    "name": "expansion-6392",
@@ -2695,7 +2707,7 @@
   },
   "expansion-6393": {
    "name": "expansion-6393",
-   "count": 129
+   "count": 131
   },
   "mega-evolution": {
    "name": "Mega Evolution",
@@ -2705,16 +2717,16 @@
    "name": "expansion-6310",
    "count": 232
   },
-  "csvh2c-happy-combo-lucario-greninja-zamazenta-mabosstiff-box-set": {
-   "name": "CSVH2C Happy Combo Lucario & Greninja & Zamazenta & Mabosstiff Box Set",
+  "expansion-6334": {
+   "name": "expansion-6334",
    "count": 118
   },
   "expansion-6311": {
    "name": "expansion-6311",
    "count": 202
   },
-  "csvh1c": {
-   "name": "CSVH1C",
+  "expansion-6335": {
+   "name": "expansion-6335",
    "count": 92
   },
   "expansion-6401": {
@@ -2745,10 +2757,6 @@
    "name": "WCD 2019",
    "count": 92
   },
-  "expansion-2396": {
-   "name": "expansion-2396",
-   "count": 94
-  },
   "expansion-6381": {
    "name": "expansion-6381",
    "count": 774
@@ -2765,68 +2773,68 @@
    "name": "Indigo Flame",
    "count": 40
   },
-  "expansion-2393": {
-   "name": "expansion-2393",
+  "wcd-2017": {
+   "name": "WCD 2017",
    "count": 96
   },
-  "expansion-2394": {
-   "name": "expansion-2394",
+  "wcd-2016": {
+   "name": "WCD 2016",
    "count": 93
   },
   "expansion-6416": {
    "name": "expansion-6416",
    "count": 259
   },
-  "expansion-2029": {
-   "name": "expansion-2029",
+  "wcd-2015": {
+   "name": "WCD 2015",
    "count": 94
   },
-  "expansion-2754": {
-   "name": "expansion-2754",
+  "wcd-2014": {
+   "name": "WCD 2014",
    "count": 99
   },
   "expansion-6442": {
    "name": "expansion-6442",
    "count": 97
   },
-  "expansion-2744": {
-   "name": "expansion-2744",
+  "wcd-2013": {
+   "name": "WCD 2013",
    "count": 88
   },
   "expansion-6427": {
    "name": "expansion-6427",
    "count": 117
   },
-  "expansion-2749": {
-   "name": "expansion-2749",
+  "wcd-2012": {
+   "name": "WCD 2012",
    "count": 88
   },
-  "expansion-2395": {
-   "name": "expansion-2395",
+  "wcd-2011": {
+   "name": "WCD 2011",
    "count": 90
   },
   "meowth-s-little-tricks": {
    "name": "Meowth's Little Tricks",
    "count": 10
   },
-  "expansion-2026": {
-   "name": "expansion-2026",
+  "wcd-2010": {
+   "name": "WCD 2010",
    "count": 109
   },
-  "expansion-2028": {
-   "name": "expansion-2028",
+  "wcd-2009": {
+   "name": "WCD 2009",
    "count": 111
   },
-  "wcd-2008-bliss-control-deck": {
-   "name": "WCD 2008 Bliss Control Deck",
+  "wcd-2008": {
+   "name": "WCD 2008",
    "count": 95
   },
-  "expansion-1756": {
-   "name": "expansion-1756",
+  "wcd-2007": {
+   "name": "WCD 2007",
    "count": 101
   },
-  "expansion-1755": {
-   "name": "expansion-1755",
+  "wcd-2006": {
+   "name": "WCD 2006",
    "count": 95
   },
   "expansion-6455": {
@@ -2835,18 +2843,18 @@
   },
   "ascended-heroes": {
    "name": "Ascended Heroes",
-   "count": 296
+   "count": 295
   },
-  "expansion-1754": {
-   "name": "expansion-1754",
+  "wcd-2005": {
+   "name": "WCD 2005",
    "count": 89
   },
   "cbb4c-gem-pack-vol-4-booster": {
    "name": "CBB4C Gem Pack Vol. 4 Booster",
    "count": 196
   },
-  "expansion-1753": {
-   "name": "expansion-1753",
+  "wcd-2004": {
+   "name": "WCD 2004",
    "count": 96
   },
   "beginning-set-plus": {
@@ -2871,7 +2879,7 @@
   },
   "perfect-order": {
    "name": "Perfect Order",
-   "count": 125
+   "count": 124
   },
   "expansion-6516": {
    "name": "expansion-6516",
@@ -2885,8 +2893,8 @@
    "name": "CSNC Brave Stars Deck Building Gift",
    "count": 24
   },
-  "expansion-6549": {
-   "name": "expansion-6549",
+  "simplified-chinese-battle-party-set": {
+   "name": "Simplified Chinese Battle Party Set",
    "count": 315
   },
   "expansion-6548": {
@@ -2937,8 +2945,8 @@
    "name": "CS1DC Dynamax Clash V Starter Deck",
    "count": 222
   },
-  "expansion-6581": {
-   "name": "expansion-6581",
+  "csm1dc-storming-emergence-gx-starter-deck": {
+   "name": "CSM1DC Storming Emergence GX Starter Deck",
    "count": 336
   },
   "csv9c-stellar-crystal": {
@@ -2957,8 +2965,8 @@
    "name": "expansion-6579",
    "count": 44
   },
-  "expansion-6582": {
-   "name": "expansion-6582",
+  "csm2dc-shining-synergy-gx-starter-deck": {
+   "name": "CSM2DC Shining Synergy GX Starter Deck",
    "count": 357
   },
   "transfiguration-mask-booster": {
@@ -3001,8 +3009,8 @@
    "name": "Pitch Black",
    "count": 120
   },
-  "csv10c-chasing-glory-together": {
-   "name": "CSV10C Chasing Glory Together",
+  "expansion-6633": {
+   "name": "expansion-6633",
    "count": 287
   },
   "csvh5c-happy-set-mewtwo-dragonite-camerupt-sinistcha": {
@@ -3039,7 +3047,7 @@
   },
   "expansion-6683": {
    "name": "expansion-6683",
-   "count": 1
+   "count": 2
   },
   "cbb6c-gem-pack-vol-6-booster": {
    "name": "CBB6C Gem Pack Vol. 6 Booster",
@@ -3048,10 +3056,6 @@
   "expansion-6694": {
    "name": "expansion-6694",
    "count": 187
-  },
-  "expansion-6697": {
-   "name": "expansion-6697",
-   "count": 37
   },
   "expansion-6699": {
    "name": "expansion-6699",
