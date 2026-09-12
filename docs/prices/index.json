@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T02:49:51+0200",
+ "updated": "2026-09-12T02:49:54+0200",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -3063,11 +3063,19 @@
   },
   "30th-celebration": {
    "name": "30th Celebration",
-   "count": 154
+   "count": 361
   },
   "30th-celebration-jp": {
    "name": "30th Celebration JP",
-   "count": 127
+   "count": 173
+  },
+  "30th-celebration-indonesian-thai": {
+   "name": "30th Celebration Indonesian & Thai",
+   "count": 200
+  },
+  "30th-celebration-espeon-ex-and-umbreon-ex-premium-deck-set": {
+   "name": "30th Celebration Espeon ex and Umbreon ex Premium Deck Set",
+   "count": 49
   }
  }
 }
