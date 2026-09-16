@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T02:48:12+0200",
+ "updated": "2026-09-16T02:45:15+0200",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -2607,7 +2607,7 @@
   },
   "expansion-6324": {
    "name": "expansion-6324",
-   "count": 8
+   "count": 16
   },
   "mega": {
    "name": "Mega",
@@ -3076,6 +3076,10 @@
   "30th-celebration-espeon-ex-and-umbreon-ex-premium-deck-set": {
    "name": "30th Celebration Espeon ex and Umbreon ex Premium Deck Set",
    "count": 49
+  },
+  "expansion-6767": {
+   "name": "expansion-6767",
+   "count": 6
   }
  }
 }
