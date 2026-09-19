@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T02:49:39+0200",
+ "updated": "2026-09-19T02:42:42+0200",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -3080,6 +3080,10 @@
   "expansion-6767": {
    "name": "expansion-6767",
    "count": 9
+  },
+  "expansion-6700": {
+   "name": "expansion-6700",
+   "count": 61
   }
  }
 }
