@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T02:45:26+0200",
+ "updated": "2026-09-25T02:48:32+0200",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -67,7 +67,7 @@
   },
   "expansion-2107": {
    "name": "expansion-2107",
-   "count": 94
+   "count": 96
   },
   "expansion-1605": {
    "name": "expansion-1605",
@@ -2383,7 +2383,7 @@
   },
   "expansion-6088": {
    "name": "expansion-6088",
-   "count": 35
+   "count": 37
   },
   "mission-reward-vol": {
    "name": "Mission Reward Vol.",
@@ -2483,7 +2483,7 @@
   },
   "expansion-6230": {
    "name": "expansion-6230",
-   "count": 144
+   "count": 164
   },
   "premium-trainer-box-mega": {
    "name": "Premium Trainer Box MEGA",
@@ -3089,8 +3089,8 @@
    "name": "expansion-6700",
    "count": 122
   },
-  "expansion-6774": {
-   "name": "expansion-6774",
+  "30th-celebration-simplified-chinese": {
+   "name": "30th Celebration Simplified Chinese",
    "count": 45
   }
  }
