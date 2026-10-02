@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T09:55:13+0200",
+ "updated": "2026-10-02T02:41:06+0200",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -699,7 +699,7 @@
   },
   "expansion-4159": {
    "name": "expansion-4159",
-   "count": 411
+   "count": 412
   },
   "pok-mon-card-vs": {
    "name": "Pok\u00e9mon Card VS",
@@ -743,7 +743,7 @@
   },
   "expansion-4170": {
    "name": "expansion-4170",
-   "count": 208
+   "count": 212
   },
   "silver-lance-jet-black-spirit-jumbo-pack-set": {
    "name": "Silver Lance & Jet Black Spirit Jumbo Pack Set",
@@ -2119,7 +2119,7 @@
   },
   "expansion-5834": {
    "name": "expansion-5834",
-   "count": 85
+   "count": 87
   },
   "shrouded-fable": {
    "name": "Shrouded Fable",
@@ -2603,7 +2603,7 @@
   },
   "expansion-6232": {
    "name": "expansion-6232",
-   "count": 153
+   "count": 155
   },
   "expansion-6324": {
    "name": "expansion-6324",
@@ -2839,7 +2839,7 @@
   },
   "expansion-6455": {
    "name": "expansion-6455",
-   "count": 296
+   "count": 297
   },
   "ascended-heroes": {
    "name": "Ascended Heroes",
@@ -3003,7 +3003,7 @@
   },
   "expansion-6640": {
    "name": "expansion-6640",
-   "count": 13
+   "count": 14
   },
   "pitch-black": {
    "name": "Pitch Black",
@@ -3021,16 +3021,12 @@
    "name": "expansion-6635",
    "count": 97
   },
-  "mega-starter-set-sprigatito-meowscarada-ex": {
-   "name": "MEGA Starter Set Sprigatito & Meowscarada ex",
-   "count": 18
+  "mega-starter-set": {
+   "name": "MEGA Starter Set",
+   "count": 38
   },
-  "mega-starter-set-zorua-zoroark-ex": {
-   "name": "MEGA Starter Set Zorua & Zoroark ex",
-   "count": 20
-  },
-  "mega-starter-set-eevee-ex": {
-   "name": "MEGA Starter Set Eevee ex",
+  "mega-starter-set-eevee": {
+   "name": "MEGA Starter Set Eevee",
    "count": 20
   },
   "expansion-6672": {
@@ -3100,6 +3096,10 @@
   "expansion-6703": {
    "name": "expansion-6703",
    "count": 136
+  },
+  "expansion-6702": {
+   "name": "expansion-6702",
+   "count": 84
   }
  }
 }
