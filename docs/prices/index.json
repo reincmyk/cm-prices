@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T02:47:18+0200",
+ "updated": "2026-10-26T02:47:18+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -3104,6 +3104,10 @@
   "expansion-6922": {
    "name": "expansion-6922",
    "count": 104
+  },
+  "delta-reign": {
+   "name": "Delta Reign",
+   "count": 141
   }
  }
 }
