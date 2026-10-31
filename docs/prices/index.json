@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:47:31+0100",
+ "updated": "2026-10-31T02:42:33+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -555,7 +555,7 @@
   },
   "expansion-3108": {
    "name": "expansion-3108",
-   "count": 66
+   "count": 67
   },
   "rebel-clash": {
    "name": "Rebel Clash",
@@ -2839,7 +2839,7 @@
   },
   "expansion-6455": {
    "name": "expansion-6455",
-   "count": 297
+   "count": 298
   },
   "ascended-heroes": {
    "name": "Ascended Heroes",
@@ -3105,8 +3105,8 @@
    "name": "expansion-6922",
    "count": 104
   },
-  "delta-reign": {
-   "name": "Delta Reign",
+  "expansion-6704": {
+   "name": "expansion-6704",
    "count": 141
   }
  }
