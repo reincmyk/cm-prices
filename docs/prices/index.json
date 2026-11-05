@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:47:37+0100",
+ "updated": "2026-11-05T02:50:00+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -2675,7 +2675,7 @@
   },
   "expansion-6231": {
    "name": "expansion-6231",
-   "count": 21
+   "count": 22
   },
   "phantasmal-flames": {
    "name": "Phantasmal Flames",
@@ -3112,6 +3112,10 @@
   "expansion-6940": {
    "name": "expansion-6940",
    "count": 15
+  },
+  "expansion-6933": {
+   "name": "expansion-6933",
+   "count": 8
   }
  }
 }
