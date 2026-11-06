@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:50:00+0100",
+ "updated": "2026-11-06T02:42:47+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -67,7 +67,7 @@
   },
   "expansion-2107": {
    "name": "expansion-2107",
-   "count": 98
+   "count": 101
   },
   "expansion-1605": {
    "name": "expansion-1605",
@@ -559,7 +559,7 @@
   },
   "rebel-clash": {
    "name": "Rebel Clash",
-   "count": 234
+   "count": 235
   },
   "expansion-3214": {
    "name": "expansion-3214",
@@ -2383,7 +2383,7 @@
   },
   "expansion-6088": {
    "name": "expansion-6088",
-   "count": 37
+   "count": 39
   },
   "mission-reward-vol": {
    "name": "Mission Reward Vol.",
@@ -2459,11 +2459,11 @@
   },
   "expansion-6197": {
    "name": "expansion-6197",
-   "count": 161
+   "count": 163
   },
   "expansion-6198": {
    "name": "expansion-6198",
-   "count": 163
+   "count": 164
   },
   "expansion-6219": {
    "name": "expansion-6219",
@@ -2599,7 +2599,7 @@
   },
   "expansion-6290": {
    "name": "expansion-6290",
-   "count": 35
+   "count": 38
   },
   "expansion-6232": {
    "name": "expansion-6232",
@@ -2607,7 +2607,7 @@
   },
   "expansion-6324": {
    "name": "expansion-6324",
-   "count": 16
+   "count": 20
   },
   "mega": {
    "name": "Mega",
@@ -2687,7 +2687,7 @@
   },
   "expansion-6300": {
    "name": "expansion-6300",
-   "count": 20
+   "count": 25
   },
   "csvl2c": {
    "name": "CSVL2C",
@@ -2839,7 +2839,7 @@
   },
   "expansion-6455": {
    "name": "expansion-6455",
-   "count": 298
+   "count": 301
   },
   "ascended-heroes": {
    "name": "Ascended Heroes",
@@ -2883,7 +2883,7 @@
   },
   "expansion-6516": {
    "name": "expansion-6516",
-   "count": 18
+   "count": 19
   },
   "mew-confluence-deck-building-advanced-gift": {
    "name": "Mew Confluence Deck Building Advanced Gift",
@@ -2939,7 +2939,7 @@
   },
   "expansion-6518": {
    "name": "expansion-6518",
-   "count": 13
+   "count": 17
   },
   "cs1dc-dynamax-clash-v-starter-deck": {
    "name": "CS1DC Dynamax Clash V Starter Deck",
@@ -3003,7 +3003,7 @@
   },
   "expansion-6640": {
    "name": "expansion-6640",
-   "count": 14
+   "count": 16
   },
   "pitch-black": {
    "name": "Pitch Black",
@@ -3079,7 +3079,7 @@
   },
   "expansion-6767": {
    "name": "expansion-6767",
-   "count": 10
+   "count": 20
   },
   "expansion-6700": {
    "name": "expansion-6700",
@@ -3116,6 +3116,14 @@
   "expansion-6933": {
    "name": "expansion-6933",
    "count": 8
+  },
+  "csv10-6c-white-flare-s-ch": {
+   "name": "CSV10.6C White Flare S-Ch",
+   "count": 174
+  },
+  "csv10-5c-black-bolt-s-ch": {
+   "name": "CSV10.5C Black Bolt S-Ch",
+   "count": 174
   }
  }
 }
