@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T02:50:26+0100",
+ "updated": "2026-11-11T02:45:38+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -2603,7 +2603,7 @@
   },
   "expansion-6232": {
    "name": "expansion-6232",
-   "count": 165
+   "count": 167
   },
   "expansion-6324": {
    "name": "expansion-6324",
@@ -3115,7 +3115,7 @@
   },
   "expansion-6933": {
    "name": "expansion-6933",
-   "count": 8
+   "count": 10
   },
   "csv10-6c-white-flare-s-ch": {
    "name": "CSV10.6C White Flare S-Ch",
@@ -3124,6 +3124,10 @@
   "csv10-5c-black-bolt-s-ch": {
    "name": "CSV10.5C Black Bolt S-Ch",
    "count": 174
+  },
+  "cbb7c-gem-pack-vol-7-booster": {
+   "name": "CBB7C Gem Pack Vol. 7 Booster",
+   "count": 196
   }
  }
 }
