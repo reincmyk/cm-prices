@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:44:11+0100",
+ "updated": "2026-11-15T02:47:59+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -547,7 +547,7 @@
   },
   "expansion-2916": {
    "name": "expansion-2916",
-   "count": 386
+   "count": 390
   },
   "sword-shield": {
    "name": "Sword & Shield",
@@ -2603,7 +2603,7 @@
   },
   "expansion-6232": {
    "name": "expansion-6232",
-   "count": 167
+   "count": 170
   },
   "expansion-6324": {
    "name": "expansion-6324",
@@ -3129,8 +3129,8 @@
    "name": "CBB7C Gem Pack Vol. 7 Booster",
    "count": 196
   },
-  "expansion-6963": {
-   "name": "expansion-6963",
+  "mega-gengar-ex-mega-dragonite-ex-mega-feraligatr-ex-special-deck-set": {
+   "name": "Mega Gengar ex Mega Dragonite ex & Mega Feraligatr ex Special Deck Set",
    "count": 38
   }
  }
