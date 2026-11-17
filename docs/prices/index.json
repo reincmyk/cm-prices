@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:48:57+0100",
+ "updated": "2026-11-17T02:51:10+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -155,7 +155,7 @@
   },
   "ex-holon-phantoms": {
    "name": "EX Holon Phantoms",
-   "count": 112
+   "count": 113
   },
   "ex-crystal-guardians": {
    "name": "EX Crystal Guardians",
@@ -2387,7 +2387,7 @@
   },
   "mission-reward-vol": {
    "name": "Mission Reward Vol.",
-   "count": 471
+   "count": 472
   },
   "the-glory-of-team-rocket": {
    "name": "The Glory of Team Rocket",
