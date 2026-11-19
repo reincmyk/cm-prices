@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T02:51:10+0100",
+ "updated": "2026-11-19T02:48:38+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -137,8 +137,8 @@
    "name": "EX Deoxys",
    "count": 113
   },
-  "ex-emerald": {
-   "name": "EX Emerald",
+  "expansion-1547": {
+   "name": "expansion-1547",
    "count": 112
   },
   "expansion-1548": {
@@ -275,7 +275,7 @@
   },
   "undaunted": {
    "name": "Undaunted",
-   "count": 97
+   "count": 99
   },
   "triumphant": {
    "name": "Triumphant",
@@ -2383,11 +2383,11 @@
   },
   "expansion-6088": {
    "name": "expansion-6088",
-   "count": 39
+   "count": 41
   },
-  "mission-reward-vol": {
-   "name": "Mission Reward Vol.",
-   "count": 472
+  "expansion-6328": {
+   "name": "expansion-6328",
+   "count": 482
   },
   "the-glory-of-team-rocket": {
    "name": "The Glory of Team Rocket",
@@ -2415,7 +2415,7 @@
   },
   "expansion-6140": {
    "name": "expansion-6140",
-   "count": 44
+   "count": 46
   },
   "csv3c-fearless-terastal": {
    "name": "CSV3C Fearless Terastal",
@@ -2463,7 +2463,7 @@
   },
   "expansion-6198": {
    "name": "expansion-6198",
-   "count": 164
+   "count": 167
   },
   "expansion-6219": {
    "name": "expansion-6219",
@@ -2599,7 +2599,7 @@
   },
   "expansion-6290": {
    "name": "expansion-6290",
-   "count": 38
+   "count": 39
   },
   "expansion-6232": {
    "name": "expansion-6232",
@@ -2675,7 +2675,7 @@
   },
   "expansion-6231": {
    "name": "expansion-6231",
-   "count": 22
+   "count": 24
   },
   "phantasmal-flames": {
    "name": "Phantasmal Flames",
@@ -2839,7 +2839,7 @@
   },
   "expansion-6455": {
    "name": "expansion-6455",
-   "count": 301
+   "count": 302
   },
   "ascended-heroes": {
    "name": "Ascended Heroes",
