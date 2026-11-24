@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T02:45:50+0100",
+ "updated": "2026-11-24T02:45:23+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -687,7 +687,7 @@
   },
   "expansion-3781": {
    "name": "expansion-3781",
-   "count": 125
+   "count": 182
   },
   "expansion-6200": {
    "name": "expansion-6200",
@@ -2387,7 +2387,7 @@
   },
   "expansion-6328": {
    "name": "expansion-6328",
-   "count": 482
+   "count": 483
   },
   "the-glory-of-team-rocket": {
    "name": "The Glory of Team Rocket",
@@ -2707,7 +2707,7 @@
   },
   "expansion-6393": {
    "name": "expansion-6393",
-   "count": 167
+   "count": 170
   },
   "mega-evolution": {
    "name": "Mega Evolution",
@@ -3132,6 +3132,10 @@
   "mega-gengar-ex-mega-dragonite-ex-mega-feraligatr-ex-special-deck-set": {
    "name": "Mega Gengar ex Mega Dragonite ex & Mega Feraligatr ex Special Deck Set",
    "count": 38
+  },
+  "aura-seeker-booster": {
+   "name": "Aura Seeker Booster",
+   "count": 78
   }
  }
 }
