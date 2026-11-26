@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:42:31+0100",
+ "updated": "2026-11-26T09:08:54+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -103,7 +103,7 @@
   },
   "ex-ruby-sapphire": {
    "name": "EX Ruby & Sapphire",
-   "count": 118
+   "count": 119
   },
   "ex-trainer-kit": {
    "name": "EX Trainer Kit",
@@ -539,7 +539,7 @@
   },
   "cosmic-eclipse": {
    "name": "Cosmic Eclipse",
-   "count": 285
+   "count": 286
   },
   "expansion-2829": {
    "name": "expansion-2829",
@@ -1843,7 +1843,7 @@
   },
   "play-pok-mon-prize-pack-series-two": {
    "name": "Play! Pok\u00e9mon Prize Pack Series Two",
-   "count": 188
+   "count": 196
   },
   "snow-hazard-booster": {
    "name": "Snow Hazard Booster",
