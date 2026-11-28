@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:08:54+0100",
+ "updated": "2026-11-27T15:49:42+0100",
  "expansions": {
   "expansion-1585": {
    "name": "expansion-1585",
@@ -2603,7 +2603,7 @@
   },
   "expansion-6232": {
    "name": "expansion-6232",
-   "count": 171
+   "count": 172
   },
   "expansion-6324": {
    "name": "expansion-6324",
@@ -3135,7 +3135,7 @@
   },
   "aura-seeker-booster": {
    "name": "Aura Seeker Booster",
-   "count": 78
+   "count": 114
   }
  }
 }
